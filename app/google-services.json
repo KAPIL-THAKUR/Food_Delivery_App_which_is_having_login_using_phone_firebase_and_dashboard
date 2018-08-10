@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "352898628899",
+    "firebase_url": "https://swiggy-e910b.firebaseio.com",
+    "project_id": "swiggy-e910b",
+    "storage_bucket": "swiggy-e910b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352898628899:android:0935620c4240cdf4",
+        "android_client_info": {
+          "package_name": "com.example.kapil.kt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352898628899-ujr4tmo4f001disr5u8fh7mdmh4hovio.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kapil.kt",
+            "certificate_hash": "85b0030a8c9d601d7f01537402acac58a6ac59e3"
+          }
+        },
+        {
+          "client_id": "352898628899-qt0ifc53ujht68rplklmthmkfcupph01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_mZCcsvY9h09y7ueig02GG6Vf5nU8JDY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352898628899-qt0ifc53ujht68rplklmthmkfcupph01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
